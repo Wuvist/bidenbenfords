@@ -1,0 +1,177 @@
+
+
+/* MILWAUKEE COUNTY DEFAULT COLOR PALETTE */
+
+
+/* PRIMARY BLUE COLOR */
+a{color:#473778;}
+h1 a, h2 a,h3 a, h4 a, h5 a, h6 a{color:#473778;}
+.BoxStyle a{color:#473778 !important;}
+.titanBody input[type="button"],
+.titanBody input[type="submit"],
+.Button a{color:#473778 !important;}
+.Button2 a{color:#fff !important;background:#473778;}
+#topNavWrapper{background:#473778;}
+#topControls .MenuContainer .Freeform img{border:2px solid #473778;}
+#topControls .MenuContainer ul li a{background-color:#473778 !important;}
+#departmentTopControls ul li a{color: #473778;}
+#departmentTopControls ul ul li a{background-color:#473778 !important;}
+#departmentTopControls ul ul li:hover a{background-color:#473778 !important;}
+#mobileMenuButton a{background:#473778;}
+#mobileSearchButton a{background:#473778;}
+#desktopSearchButton a i{color:#473778;}
+.searchWrapper .searchBarContainer button{background:#473778;}
+.EventsSliderCard a{color:#473778;}
+#scrollTop #scrollTopButton{background:#473778;}
+.IconList li > a em{color:#473778 !important;}
+.titanDisplay #mainBody .DetailTabs ul li{color:#473778;}
+div.Calendar div.calendarCallOut table td.selectedDate,
+div.EventUpload div.DatePicker td.selectedDate,
+div.DataEditor div.DatePicker td.selectedDate,
+div.DataList div.DatePicker td.selectedDate,
+div.DataFilter2 table.calendar td.selectedDate{background:#473778 none repeat scroll 0 0;}
+div.Calendar div.calendarCallOut table td.hasEvent,
+div.EventUpload div.DatePicker td.hasEvent,
+div.DataEditor div.DatePicker td.hasEvent,
+div.DataList div.DatePicker td.hasEvent,
+div.DataFilter2 table.calendar td.hasEvent{color:#473778;}
+span.closeButton{background-color:#473778;}
+#leftZone .MasterFilterStyle  fieldset div.head span{ background:url("/web/20201105170603im_/https://county.milwaukee.gov/ClientCss/images/MilwaukeeCountyImages/bgFilterArrowsPurple.png") no-repeat left 5px;}
+#leftZone .MasterFilterStyle  fieldset.min div.head span{background:url("/web/20201105170603im_/https://county.milwaukee.gov/ClientCss/images/MilwaukeeCountyImages/bgFilterArrowsPurple.png") no-repeat left -19px;}
+@media screen and (max-width:1150px){
+.titanDisplay #mainBody .DetailTabs ul li.selected{background:#473778;}
+.titanDisplay #mainBody .DetailTabs ul li:hover{background:#473778;}}
+
+
+
+/* SECONDARY BLUE COLOR - HOVER STATES */
+.Button2 a:hover,.Button2 a:focus,.Button2 a:active{background:#382869;}
+#topControls ul li a:hover{background-color:#382869;}
+#topControls ul li.Selected a{background-color:#382869 !important;}
+#topControls ul.BackToMilwaukee li a:hover{background-color:#382869;}
+#topControls .MenuContainer{background:#382869;}
+#topControls .MenuContainerInside{background:#382869;}
+#topControls .MenuContainer ul li:hover{background-color:#382869 !important;}
+#topControls .MenuContainer ul li.ItemVisible a{background-color:#382869 !important;}
+#departmentTopControls ul li:hover a{background-color:#382869 !important;}
+.searchWrapper .searchBarContainer button:hover{background:#382869;}
+#scrollTop #scrollTopButton:hover{background:#382869;}
+#mobileMenuButton a:hover{background:#382869;}
+#mobileSearchButton a:hover{background:#382869;}
+
+
+
+/* THIRD BLUE COLOR - BORDERS */
+#topControls .MenuContainer ul li a{border-bottom:1px solid #6e5ca4;border-right:1px solid #6e5ca4;}
+#topControls .MenuContainer ul ul li a{border-bottom:1px dotted #6e5ca4;}
+#departmentTopControls ul ul li a{border-bottom:1px dotted #6e5ca4;}
+
+
+/* GOLD ACCENT COLOR */
+.ImageWithText{border-top:3px solid #b5ad42;}
+.BoxStyle{border-top:4px solid #b5ad42;}
+.NewsSliderCard .Date{background:#b5ad42;}
+.SeeMoreLessButton span.icon i{color:#b5ad42;}
+.SeeMoreLessButton span.text{color:#b5ad42;}
+.InlineSocialMedia ul li a{background:#b5ad42;}
+#departmentTopControls > .siteBounds > ul > li > a.current{color:#b5ad42;}
+#departmentMobileNavWrapper .topMobile {background: #b5ad42;}
+#departmentMobileNavWrapper .closeMenu{color:#b5ad42;}
+#departmentFooter .wrapme{border-top:2px solid #b5ad42;}
+.bx-wrapper .bx-controls-direction a:hover{background:#b5ad42;}
+.bx-wrapper .bx-controls-direction a i{color:#b5ad42;}
+.EventsSliderCard{background:#fff;box-shadow: 0 0 5px #333;border-top:3px solid #b5ad42;}
+#leftNavContainer{border-top:3px solid #b5ad42;}
+#leftZone #leftNavContainer h3{color:#b5ad42;}
+#leftNavContainer ul li a:hover{color:#b5ad42;}
+#leftNavContainer ul li a.current{color:#b5ad42;}
+#leftNavContainer ul ul li a:hover{color:#b5ad42;}
+#leftNavContainer ul li span.icon i{color: #b5ad42;}
+.FAQAccordion .accordionHeading i{color:#b5ad42;}
+.FAQTabbed div.tabbedContent ul.tabs li{background:#b5ad42 !important;}
+.titanDisplay #mainBody .DetailTabs ul li.selected{border-bottom:6px solid #b5ad42;}
+.titanDisplay #mainBody .DetailTabs ul li:hover{border-bottom:6px solid #b5ad42;}
+
+
+/* SEARCH DETAILS*/
+.docMatch i{color:#b5ad42 !important;}
+ul.searchSegments li {background:#473778;}
+ul.searchSegments li.segment:hover{background-color:#382869;}
+
+/* SEARCH BAR BLOCK */
+.searchOuterWrapper .searchInnerWrapper input[type="button"]{background:#473778;}
+.searchOuterWrapper .searchInnerWrapper input[type="button"]:hover {background:#382869;}
+.searchOuterWrapper .suggestionWrapper .suggestedTerm {color:#473778 !important;}
+
+
+
+
+/* GOLD ACCENT HOVER COLOR */
+.InlineSocialMedia ul li a:hover{background:#9d952c;}
+
+#departmentFooter .WhiteBlock{background:url("/web/20201105170603im_/https://county.milwaukee.gov/ClientCss/images/MilwaukeeCountyImages/PurplePattern.jpg");}
+#departmentMobileNavWrapper{background:url('/web/20201105170603im_/https://county.milwaukee.gov/ClientCss/images/MilwaukeeCountyImages/PurplePattern.jpg');}
+#mainBody .Freeform ul li{background:url("/web/20201105170603im_/https://county.milwaukee.gov/ClientCss/images/MilwaukeeCountyImages/PurpleBullet.png") no-repeat 0px 8px;}
+
+
+
+
+/* === ELECTION RESULTS === */
+.ElectionFeed table{margin-bottom:10px;}
+.ElectionFeed table tr:nth-child(odd){background:#eaeaea !important;}
+.ElectionFeed table tr:first-of-type{background:#473778 !important;color:#fff;}
+.ElectionFeed table tr:first-of-type td{font-weight:bold;}
+.ElectionFeed table tr td{padding:5px;}
+
+/* ELECTION RESULTS */
+.ElectionResults h2{text-transform:uppercase;font-weight:700;}
+.ResultsBox  p{border-bottom:1px solid #ccc;padding-bottom:12px;}
+.ResultsBox  p span{font-size:20px;}
+.ResultsBox  p:last-child{border-bottom:0px;}
+.ElectionResults span.label{}
+.ElectionResults span.value{font-weight:900;float:right;}
+#mainBody .Freeform.ElectionResults ul{background: #eaeaea;margin: 0 !important;padding: 20px;list-style: none;width: calc(100% + 40px);left: -20px;position: relative;bottom: -15px;margin-top: -10px !important;border-top: 1px solid #ccc;}
+.Municipality{display:flex;flex-wrap:wrap;background:#eaeaea;border:1px solid #ccc;border-radius:5px;flex-direction:column;padding:15px;justify-content:center;align-items: center;margin-bottom: 25px;}
+.Municipality.Complete{background:#00939d;}
+.Municipality p{font-weight:bold;}
+.Municipality em {color: #ccc;margin-right: 10px;background: #fff;border-radius: 50%;width: 40px;height: 40px;display: flex;justify-content: center;align-items: center;border: 1px solid #ccc;}
+.Municipality em.fa-check {display:none;}
+.Municipality.Complete em.fa-times {display:none;}
+.Municipality.Complete em.fa-check {display:flex;}
+.Municipality.Complete em {color:#00939d;}
+.Municipality.Complete p{color:#fff;text-align:center;}
+.Municipality em::before {position:absolute;}
+.percentWrapper{width:100%;border:1px solid #ccc;position:relative;}
+.percentValue{top:1px;left:1px;height:calc(100% - 2px);background:#bda133;}
+.FirstTable{margin-top:50px;}
+.precinctTable{display:none;}
+
+.BoxStyle {
+    border-top: 4px solid #bda133;
+}
+
+#departmentTopControls > .siteBounds > ul > li > a.current {
+    color: #bda133;
+}
+
+/*
+     FILE ARCHIVED ON 17:06:03 Nov 05, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:05:33 Nov 06, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 292.935
+  exclusion.robots: 0.232
+  exclusion.robots.policy: 0.222
+  RedisCDXSource: 3.045
+  esindex: 0.01
+  LoadShardBlock: 263.135 (3)
+  PetaboxLoader3.datanode: 144.059 (5)
+  CDXLines.iter: 21.296 (3)
+  PetaboxLoader3.resolve: 172.719 (4)
+  load_resource: 176.611 (2)
+*/
